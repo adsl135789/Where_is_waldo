@@ -1,0 +1,10 @@
+datasets
+tests
+labelled_data
+models
+runs
+.DS_Store
+*.pt
+*.pth
+__pycache__
+venv
