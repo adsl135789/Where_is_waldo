@@ -28,5 +28,3 @@ This project utilizes the YoLoV8 model to train on images from the classic child
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License.
