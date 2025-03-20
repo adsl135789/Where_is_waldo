@@ -2,6 +2,7 @@
 
 ## Overview
 This project utilizes the YoLoV8 model to train on images from the classic children's book "Where's Waldo?". The goal is to enable the model to identify and mark the location of Waldo within the images.
+![alt text](image.png)
 
 ## Features
 - **Model Training**: Trained using images from "Where's Waldo?" to enhance the model's ability to detect Waldo in various scenarios. The training process includes data augmentation techniques to improve model robustness.
